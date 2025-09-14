@@ -24,7 +24,7 @@ Currently @Fiserv building reliable financial systems | 3+ years in Financial Te
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=giri-8H&show_icons=true&theme=radical)
 
 ## 🔥 Recent Projects
 - 🔍 **ML Fraud Detection API** - Real-time scoring for SMB merchants
